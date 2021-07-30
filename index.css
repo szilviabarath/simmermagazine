@@ -226,6 +226,8 @@ tfoot {
   left: 30px;
   color: white;
   border-radius: 20px;
+  font-family: "Bangers", cursive;
+  
 }
 
 .meta_data__button:hover {
