@@ -1,7 +1,7 @@
 body {
   font-family: "Saira Condensed", sans-serif;
   font-size: 18px;
-  background-color: #d4d898;
+  background-color: #fefcfb;
   position: relative;
 }
 
@@ -74,7 +74,7 @@ button {
 
 h1 {
    font-family: "Saira Condensed", sans-serif;
-   font-size: 1em;
+   font-size: 2em;
 }
 h5 {
   font-family: "Bangers", cursive;
