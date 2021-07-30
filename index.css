@@ -72,6 +72,10 @@ button {
   color: #000;
 }
 
+h1 {
+   font-family: "Saira Condensed", sans-serif;
+   font-size: 1em;
+}
 h5 {
   font-family: "Bangers", cursive;
   font-style: bold;
@@ -226,6 +230,7 @@ tfoot {
   left: 30px;
   color: white;
   border-radius: 20px;
+  font-family: "Bangers", cursive;
 }
 
 .meta_data__button:hover {
